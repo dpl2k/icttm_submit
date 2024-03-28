@@ -1,0 +1,19 @@
+batters,filling,id,name,ppu,topping,type
+"{[{1001, Regular}, {1002, Chocolate}, {1003, Blueberry}, {1004, Devil's Food}]}",,0004,Jelly,0.65,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}, {1005, Custard}]}",,0005,Custard-Filled,0.75,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprinkles}, {5007, Powdered Sugar}, {5008, Strawberry}, {5009, Vanilla Cream}]",donut
+"{[{1001, Regular}, {1002, Chocolate}, {1003, Blueberry}, {1004, Devil's Food}]}","[{6001, None}, {6002, Custard}, {6003, Whipped Cream}, {6004, Strawberry Jelly}]",0006,Cinnamon Twist,0.85,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprinkles}, {5007, Powdered Sugar}, {5008, Strawberry}]",donut
+"{[{1001, Regular}, {1002, Chocolate}, {1003, Blueberry}, {1004, Devil's Food}]}",,0007,Vanilla Frosted,0.75,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprinkles}, {5007, Powdered Sugar}, {5008, Strawberry}]",donut
+"{[{1001, Regular}, {1002, Chocolate}, {1003, Blueberry}, {1004, Devil's Food}]}",,0008,Strawberry Frosted,0.85,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprink}, {5007, Powdered Sugar}, {5008, Strawberry}]",donut
+"{[{1001, Regular}, {1002, Chocolate}]}",,0009,Chocolate Cake,0.75,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprinkles}, {5007, Powdered Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}]}",,0010,Blueberry Cake,0.55,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprinkles}, {5007, Powdered Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}]}",,0011,Devil's Food Cake,0.75,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}, {5006, Chocolate with Sprinkles}, {5007, Powdered Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}, {1003, Blueberry}, {1004, Devil's Food}]}",,0012,Jelly Donut,0.65,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}]",donut
+"{[{1001, Regular}]}",,0013,Raised Donut,0.55,"[{5001, None}, {5002, Glazed}, {5005, Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}]}",,0014,Old Fashioned Donut,0.75,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}]",donut
+"{[{1001, Regular}]}",,0015,Cruller,0.85,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}]}","[{6001, None}, {6002, Custard}, {6003, Whipped Cream}, {6004, Strawberry Jelly}]",0016,Filled Donut,0.95,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}]",donut
+"{[{1001, Regular}, {1002, Chocolate}, {1003, Blueberry}, {1004, Devil's Food}]}",,0017,Old Fashioned,0.65,"[{5001, None}, {5002, Glazed}, {5003, Chocolate}, {5004, Maple}, {5005, Sugar}]",donut
+"{[{1001, Regular}]}",,0018,Regular,0.55,"[{5001, None}, {5002, Glazed}, {5005, Sugar}]",donut
+"{[{1001, Regular}]}","[{6001, None}, {6002, Custard}, {6003, Whipped Cream}, {6004, Strawberry Jelly}]",0019,Blueberry,0.75,"[{5002, Glazed}, {5003, Chocolate}, {5004, Maple}]",donut
+"{[{1001, Regular}]}",,0020,Devil's Food,0.75,"[{5002, Glazed}, {5003, Chocolate}]",donut
+"{[{1001, Regular}, {1002, Chocolate}]}",,0021,Vanilla Cream,0.75,"[{5002, Glazed}, {5004, Maple}]",donut

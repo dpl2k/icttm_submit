@@ -1,0 +1,401 @@
+{"_corrupt_record":"["}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0004\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Jelly\","}
+{"_corrupt_record":"        \"ppu\": 0.65,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0005\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Custard-Filled\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1005","type":"Custard"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprinkles"}
+{"id":"5007","type":"Powdered Sugar"}
+{"id":"5008","type":"Strawberry"}
+{"id":"5009","type":"Vanilla Cream"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0006\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Cinnamon Twist\","}
+{"_corrupt_record":"        \"ppu\": 0.85,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprinkles"}
+{"id":"5007","type":"Powdered Sugar"}
+{"id":"5008","type":"Strawberry"}
+{"_corrupt_record":"        ],"}
+{"_corrupt_record":"        \"filling\": ["}
+{"id":"6001","name":"None"}
+{"id":"6002","name":"Custard"}
+{"id":"6003","name":"Whipped Cream"}
+{"id":"6004","name":"Strawberry Jelly"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0007\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Vanilla Frosted\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprinkles"}
+{"id":"5007","type":"Powdered Sugar"}
+{"id":"5008","type":"Strawberry"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0008\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Strawberry Frosted\","}
+{"_corrupt_record":"        \"ppu\": 0.85,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprink"}
+{"id":"5007","type":"Powdered Sugar"}
+{"id":"5008","type":"Strawberry"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0009\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Chocolate Cake\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprinkles"}
+{"id":"5007","type":"Powdered Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0010\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Blueberry Cake\","}
+{"_corrupt_record":"        \"ppu\": 0.55,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprinkles"}
+{"id":"5007","type":"Powdered Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0011\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Devil's Food Cake\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"id":"5006","type":"Chocolate with Sprinkles"}
+{"id":"5007","type":"Powdered Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    }"}
+{"_corrupt_record":"]"}
+{"_corrupt_record":"["}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0012\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Jelly Donut\","}
+{"_corrupt_record":"        \"ppu\": 0.65,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0013\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Raised Donut\","}
+{"_corrupt_record":"        \"ppu\": 0.55,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0014\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Old Fashioned Donut\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0015\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Cruller\","}
+{"_corrupt_record":"        \"ppu\": 0.85,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0016\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Filled Donut\","}
+{"_corrupt_record":"        \"ppu\": 0.95,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ],"}
+{"_corrupt_record":"        \"filling\": ["}
+{"id":"6001","name":"None"}
+{"id":"6002","name":"Custard"}
+{"id":"6003","name":"Whipped Cream"}
+{"id":"6004","name":"Strawberry Jelly"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    }"}
+{"_corrupt_record":"]"}
+{"_corrupt_record":"["}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0017\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Old Fashioned\","}
+{"_corrupt_record":"        \"ppu\": 0.65,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0018\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Regular\","}
+{"_corrupt_record":"        \"ppu\": 0.55,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0019\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Blueberry\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"_corrupt_record":"        ],"}
+{"_corrupt_record":"        \"filling\": ["}
+{"id":"6001","name":"None"}
+{"id":"6002","name":"Custard"}
+{"id":"6003","name":"Whipped Cream"}
+{"id":"6004","name":"Strawberry Jelly"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0004\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Jelly\","}
+{"_corrupt_record":"        \"ppu\": 0.65,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"id":"1003","type":"Blueberry"}
+{"id":"1004","type":"Devil's Food"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5001","type":"None"}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"id":"5004","type":"Maple"}
+{"id":"5005","type":"Sugar"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0020\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Devil's Food\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5002","type":"Glazed"}
+{"id":"5003","type":"Chocolate"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    },"}
+{"_corrupt_record":"    {"}
+{"_corrupt_record":"        \"id\": \"0021\","}
+{"_corrupt_record":"        \"type\": \"donut\","}
+{"_corrupt_record":"        \"name\": \"Vanilla Cream\","}
+{"_corrupt_record":"        \"ppu\": 0.75,"}
+{"_corrupt_record":"        \"batters\": {"}
+{"_corrupt_record":"            \"batter\": ["}
+{"id":"1001","type":"Regular"}
+{"id":"1002","type":"Chocolate"}
+{"_corrupt_record":"            ]"}
+{"_corrupt_record":"        },"}
+{"_corrupt_record":"        \"topping\": ["}
+{"id":"5002","type":"Glazed"}
+{"id":"5004","type":"Maple"}
+{"_corrupt_record":"        ]"}
+{"_corrupt_record":"    }"}
+{"_corrupt_record":"]"}
